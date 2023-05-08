@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Roboto:ital,wght@400;0,500;1,100;1,300;1,400&family=Titillium+Web:wght@200&display=swap');
+.navegation a {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-collapse li {
+    padding-left: 20px;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Roboto:ital,wght@400;0,500;1,100;1,300;1,400&family=Titillium+Web:wght@200&display=swap');
+body {
+    background-color: #E4D1BA;
+}
+
+.navegation a {
+    font-size: 25px;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-collapse li {
+    padding-left: 20px;
+}
+
+body {
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.botaoSair {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgMenu {
+    position: relative;
+    left: 400px;
+}
+
+.jumbotron {
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(40px);
+    box-shadow: 5px 5px 5px black;
+}
